@@ -1,5 +1,7 @@
 *.pyc
+__pycache__/
 venv/
 .pulumi-passphrase
 results.csv
 summary.csv
+.DS_Store
